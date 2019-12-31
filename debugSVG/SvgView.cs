@@ -3,7 +3,7 @@ using System.IO;
 using SkiaSharp;
 using SkiaSharp.Views.Forms;
 using Xamarin.Forms;
-
+using Svg.Skia;
 namespace debugSVG
 {
     public class SvgView : ContentPage
